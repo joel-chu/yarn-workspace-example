@@ -18,6 +18,10 @@ And very consistently lie about what works and what's not
 
 So please stay away from this piece of crap. 
 
+# Please use pnpm instead - it just work! 
+
+See my other demo [mange monorepo using pnpm with ease](https://github.com/joel-chu/pnpm-monorepo-example)
+
 ---
 
 Joel Chu (C) 2022
