@@ -1,0 +1,11 @@
+{
+  "name": "module1",
+  "version": "1.0.0",
+  "description": "module 1 as the basic lib that export a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "author": "Joel Chu",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "module2",
+  "version": "1.0.0",
+  "description": "module 2 is the application that consume the module1 lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "module2": "^1.0.0"
+  },
+  "author": "Joel Chu",
+  "license": "ISC"
+}

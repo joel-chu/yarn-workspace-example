@@ -1,0 +1,27 @@
+{
+  "name": "yarn-workspace-example",
+  "version": "0.0.1",
+  "description": "Example to show how to use a yarn workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joel-chu/yarn-workspace-example.git"
+  },
+  "keywords": [
+    "Yarn",
+    "Workspace",
+    "mono",
+    "repo",
+    "\u001b[D\u001b[D\u001b[D\u001b[-repo"
+  ],
+  "author": "Joel Chu",
+  "worksapces": ["packages/*"],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joel-chu/yarn-workspace-example/issues"
+  },
+  "homepage": "https://github.com/joel-chu/yarn-workspace-example#readme"
+}
