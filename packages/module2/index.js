@@ -1,4 +1,4 @@
 
-const add = require('module1')
+const add = require('@yarn-workspace-example/module1')
 
-console.log(add(1, 2))
+console.log(`The answer is`, add(1, 2))

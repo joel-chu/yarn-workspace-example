@@ -1,6 +1,7 @@
 {
-  "name": "module1",
+  "name": "@yarn-workspace-example/module1",
   "version": "1.0.0",
+  "private": true,
   "description": "module 1 as the basic lib that export a function",
   "main": "index.js",
   "scripts": {

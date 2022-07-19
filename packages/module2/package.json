@@ -1,13 +1,14 @@
 {
-  "name": "module2",
+  "name": "@yarn-workspace-example/module2",
   "version": "1.0.0",
+  "private": true,
   "description": "module 2 is the application that consume the module1 lib",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node ./index.js"
   },
   "dependencies": {
-    "module2": "^1.0.0"
+    "@yarn-workspace-example/module1": "workspace:*"
   },
   "author": "Joel Chu",
   "license": "ISC"

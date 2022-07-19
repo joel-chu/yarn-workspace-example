@@ -1,10 +1,10 @@
 {
   "name": "yarn-workspace-example",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "private": true,
   "description": "Example to show how to use a yarn workspace",
   "main": "index.js",
   "scripts": {
-    "test": "echo "
   },
   "repository": {
     "type": "git",
@@ -13,9 +13,8 @@
   "keywords": [
     "Yarn",
     "Workspace",
-    "mono",
-    "repo",
-    "\u001b[D\u001b[D\u001b[D\u001b[-repo"
+    "monorepo",
+    "repo"
   ],
   "author": "Joel Chu",
   "worksapces": ["packages/*"],
